@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 2장 1.2까지">
-      <change afterPath="$PROJECT_DIR$/src/Chapter02/PrintfEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter02/PrintfEx02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter02/ScannerEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter02/StringEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter02/CharToCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter02/SpecialCharEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +37,20 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.ScannerEx">
+  <component name="RunManager" selected="애플리케이션.SpecialCharEx">
+    <configuration name="CharToCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter02.CharToCode" />
+      <module name="StandardJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrintfEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter02.PrintfEx01" />
       <module name="StandardJava" />
@@ -79,21 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter02.StringEx" />
-      <module name="StandardJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VarEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter02.VarEx02" />
+    <configuration name="SpecialCharEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter02.SpecialCharEx" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.SpecialCharEx" />
+        <item itemvalue="애플리케이션.CharToCode" />
         <item itemvalue="애플리케이션.ScannerEx" />
         <item itemvalue="애플리케이션.PrintfEx02" />
         <item itemvalue="애플리케이션.PrintfEx01" />
-        <item itemvalue="애플리케이션.StringEx" />
-        <item itemvalue="애플리케이션.VarEx02" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +124,7 @@
       <workItem from="1668323404376" duration="264000" />
       <workItem from="1668324011166" duration="2033000" />
       <workItem from="1668336915415" duration="3170000" />
+      <workItem from="1669453820538" duration="1401000" />
     </task>
     <task id="LOCAL-00001" summary="자바의 정석 2장 1.2까지">
       <created>1668326185955</created>
