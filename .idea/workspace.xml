@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 3장 3.1 예제 11번까지">
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/OperatorEx12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/OperatorEx13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/OperatorEx14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/OperatorEx15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/OperatorEx16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/OperatorEx17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/OperatorEx18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/OperatorEx19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/OperatorEx20.java" afterDir="false" />
+    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 3장 3.2까지">
+      <change afterPath="$PROJECT_DIR$/src/Chapter03/OperatorEx21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter03/OperatorEx22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter03/OperatorEx23.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,46 +40,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.OperatorEx20">
-    <configuration name="OperatorEx16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter03.OperatorEx16" />
-      <module name="StandardJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperatorEx17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter03.OperatorEx17" />
-      <module name="StandardJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperatorEx18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter03.OperatorEx18" />
-      <module name="StandardJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.OperatorEx23">
     <configuration name="OperatorEx19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter03.OperatorEx19" />
       <module name="StandardJava" />
@@ -112,13 +67,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperatorEx21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter03.OperatorEx21" />
+      <module name="StandardJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorEx22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter03.OperatorEx22" />
+      <module name="StandardJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorEx23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter03.OperatorEx23" />
+      <module name="StandardJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.OperatorEx23" />
+        <item itemvalue="애플리케이션.OperatorEx22" />
+        <item itemvalue="애플리케이션.OperatorEx21" />
         <item itemvalue="애플리케이션.OperatorEx20" />
         <item itemvalue="애플리케이션.OperatorEx19" />
-        <item itemvalue="애플리케이션.OperatorEx18" />
-        <item itemvalue="애플리케이션.OperatorEx17" />
-        <item itemvalue="애플리케이션.OperatorEx16" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +129,8 @@
       <workItem from="1668336915415" duration="3170000" />
       <workItem from="1669453820538" duration="7287000" />
       <workItem from="1669468319768" duration="2262000" />
-      <workItem from="1669470622766" duration="3362000" />
+      <workItem from="1669470622766" duration="3514000" />
+      <workItem from="1669516452156" duration="1907000" />
     </task>
     <task id="LOCAL-00001" summary="자바의 정석 2장 1.2까지">
       <created>1668326185955</created>
@@ -165,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669471532165</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="자바의 정석 3장 3.2까지">
+      <created>1669475031654</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669475031654</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +189,7 @@
     <MESSAGE value="자바의 정석 2장 4.2까지" />
     <MESSAGE value="자바의 정석 2장 5.5까지" />
     <MESSAGE value="자바의 정석 3장 3.1 예제 11번까지" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 3장 3.1 예제 11번까지" />
+    <MESSAGE value="자바의 정석 3장 3.2까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 3장 3.2까지" />
   </component>
 </project>
