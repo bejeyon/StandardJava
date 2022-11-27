@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 3장(6.2)까지">
-      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx05.java" afterDir="false" />
+    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 4장 1.4까지">
+      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +43,9 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.FlowEx05">
-    <configuration name="FlowEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx01" />
+  <component name="RunManager" selected="애플리케이션.FlowEx11">
+    <configuration name="FlowEx07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx07" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx02" />
+    <configuration name="FlowEx08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx08" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowEx03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx03" />
+    <configuration name="FlowEx09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx09" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowEx04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx04" />
+    <configuration name="FlowEx10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx10" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowEx05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx05" />
+    <configuration name="FlowEx11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx11" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.FlowEx05" />
-        <item itemvalue="애플리케이션.FlowEx04" />
-        <item itemvalue="애플리케이션.FlowEx03" />
-        <item itemvalue="애플리케이션.FlowEx02" />
-        <item itemvalue="애플리케이션.FlowEx01" />
+        <item itemvalue="애플리케이션.FlowEx11" />
+        <item itemvalue="애플리케이션.FlowEx10" />
+        <item itemvalue="애플리케이션.FlowEx09" />
+        <item itemvalue="애플리케이션.FlowEx08" />
+        <item itemvalue="애플리케이션.FlowEx07" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +134,7 @@
       <workItem from="1669468319768" duration="2262000" />
       <workItem from="1669470622766" duration="3514000" />
       <workItem from="1669516452156" duration="2031000" />
-      <workItem from="1669521680466" duration="11275000" />
+      <workItem from="1669521680466" duration="14758000" />
     </task>
     <task id="LOCAL-00001" summary="자바의 정석 2장 1.2까지">
       <created>1668326185955</created>
@@ -184,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669546009348</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="자바의 정석 4장 1.4까지">
+      <created>1669554469310</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669554469310</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +217,7 @@
     <MESSAGE value="자바의 정석 3장 3.2까지" />
     <MESSAGE value="자바의 정석 3장 4.2까지" />
     <MESSAGE value="자바의 정석 3장(6.2)까지" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 3장(6.2)까지" />
+    <MESSAGE value="자바의 정석 4장 1.4까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 4장 1.4까지" />
   </component>
 </project>
