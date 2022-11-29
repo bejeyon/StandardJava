@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 4장 중첩for문 직전까지">
-      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx22.java" afterDir="false" />
+    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 4장 2.1까지">
+      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx29.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +44,9 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.FlowEx22">
-    <configuration name="FlowEx18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx18" />
+  <component name="RunManager" selected="애플리케이션.FlowEx29">
+    <configuration name="FlowEx25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx25" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowEx19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx19" />
+    <configuration name="FlowEx26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx26" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowEx20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx20" />
+    <configuration name="FlowEx27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx27" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowEx21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx21" />
+    <configuration name="FlowEx28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx28" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowEx22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx22" />
+    <configuration name="FlowEx29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx29" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.FlowEx22" />
-        <item itemvalue="애플리케이션.FlowEx21" />
-        <item itemvalue="애플리케이션.FlowEx20" />
-        <item itemvalue="애플리케이션.FlowEx19" />
-        <item itemvalue="애플리케이션.FlowEx18" />
+        <item itemvalue="애플리케이션.FlowEx29" />
+        <item itemvalue="애플리케이션.FlowEx28" />
+        <item itemvalue="애플리케이션.FlowEx27" />
+        <item itemvalue="애플리케이션.FlowEx26" />
+        <item itemvalue="애플리케이션.FlowEx25" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +137,7 @@
       <workItem from="1669516452156" duration="2031000" />
       <workItem from="1669521680466" duration="14837000" />
       <workItem from="1669635866491" duration="1146000" />
-      <workItem from="1669722483727" duration="1878000" />
+      <workItem from="1669722483727" duration="4742000" />
     </task>
     <task id="LOCAL-00001" summary="자바의 정석 2장 1.2까지">
       <created>1668326185955</created>
@@ -209,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669636985143</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="자바의 정석 4장 2.1까지">
+      <created>1669724396215</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669724396215</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +244,7 @@
     <MESSAGE value="자바의 정석 4장 1.4까지" />
     <MESSAGE value="자바의 정석 4장 1.5까지" />
     <MESSAGE value="자바의 정석 4장 중첩for문 직전까지" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 4장 중첩for문 직전까지" />
+    <MESSAGE value="자바의 정석 4장 2.1까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 4장 2.1까지" />
   </component>
 </project>
