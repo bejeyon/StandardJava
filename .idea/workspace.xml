@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 4장 2.3까지">
-      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx34.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,40 +32,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/StandardJava/src/Chapter04/FlowEx32.java"
   }
-}</component>
-  <component name="RunManager" selected="애플리케이션.FlowEx32">
-    <configuration name="FlowEx28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx28" />
-      <module name="StandardJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FlowEx29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx29" />
-      <module name="StandardJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="애플리케이션.FlowEx34">
     <configuration name="FlowEx30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx30" />
       <module name="StandardJava" />
@@ -106,13 +80,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FlowEx33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx33" />
+      <module name="StandardJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlowEx34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx34" />
+      <module name="StandardJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.FlowEx34" />
+        <item itemvalue="애플리케이션.FlowEx33" />
         <item itemvalue="애플리케이션.FlowEx32" />
         <item itemvalue="애플리케이션.FlowEx31" />
         <item itemvalue="애플리케이션.FlowEx30" />
-        <item itemvalue="애플리케이션.FlowEx29" />
-        <item itemvalue="애플리케이션.FlowEx28" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +134,7 @@
       <workItem from="1669521680466" duration="14837000" />
       <workItem from="1669635866491" duration="1146000" />
       <workItem from="1669722483727" duration="5780000" />
+      <workItem from="1669773051325" duration="2594000" />
     </task>
     <task id="LOCAL-00001" summary="자바의 정석 2장 1.2까지">
       <created>1668326185955</created>
