@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 4장 2.3까지">
-      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter04/FlowEx34.java" afterDir="false" />
+    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 4장 (2.6)까지">
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +49,13 @@
     "last_opened_file_path": "C:/StandardJava/src/Chapter04/FlowEx32.java"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.FlowEx34">
-    <configuration name="FlowEx30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx30" />
+  <component name="RunManager" selected="애플리케이션.ArrayEx11">
+    <configuration name="ArrayEx07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx07" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter04.*" />
+          <option name="PATTERN" value="Chapter05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowEx31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx31" />
+    <configuration name="ArrayEx08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx08" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter04.*" />
+          <option name="PATTERN" value="Chapter05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowEx32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx32" />
+    <configuration name="ArrayEx09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx09" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter04.*" />
+          <option name="PATTERN" value="Chapter05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowEx33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx33" />
+    <configuration name="ArrayEx10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx10" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter04.*" />
+          <option name="PATTERN" value="Chapter05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowEx34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.FlowEx34" />
+    <configuration name="ArrayEx11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx11" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter04.*" />
+          <option name="PATTERN" value="Chapter05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.FlowEx34" />
-        <item itemvalue="애플리케이션.FlowEx33" />
-        <item itemvalue="애플리케이션.FlowEx32" />
-        <item itemvalue="애플리케이션.FlowEx31" />
-        <item itemvalue="애플리케이션.FlowEx30" />
+        <item itemvalue="애플리케이션.ArrayEx11" />
+        <item itemvalue="애플리케이션.ArrayEx10" />
+        <item itemvalue="애플리케이션.ArrayEx09" />
+        <item itemvalue="애플리케이션.ArrayEx08" />
+        <item itemvalue="애플리케이션.ArrayEx07" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +143,7 @@
       <workItem from="1669521680466" duration="14837000" />
       <workItem from="1669635866491" duration="1146000" />
       <workItem from="1669722483727" duration="5780000" />
-      <workItem from="1669773051325" duration="2594000" />
+      <workItem from="1669773051325" duration="14731000" />
     </task>
     <task id="LOCAL-00001" summary="자바의 정석 2장 1.2까지">
       <created>1668326185955</created>
@@ -220,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669727282701</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="자바의 정석 4장 (2.6)까지">
+      <created>1669778897361</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669778897361</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +266,7 @@
     <MESSAGE value="자바의 정석 4장 중첩for문 직전까지" />
     <MESSAGE value="자바의 정석 4장 2.1까지" />
     <MESSAGE value="자바의 정석 4장 2.3까지" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 4장 2.3까지" />
+    <MESSAGE value="자바의 정석 4장 (2.6)까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 4장 (2.6)까지" />
   </component>
 </project>
