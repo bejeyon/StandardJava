@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 4장 (2.6)까지">
-      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx11.java" afterDir="false" />
+    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 5장 1(.6)까지">
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,41 +32,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/StandardJava/src/Chapter04/FlowEx32.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/StandardJava/src/Chapter04/FlowEx32.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="애플리케이션.ArrayEx11">
-    <configuration name="ArrayEx07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx07" />
-      <module name="StandardJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayEx08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx08" />
-      <module name="StandardJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="애플리케이션.ArrayEx13">
     <configuration name="ArrayEx09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx09" />
       <module name="StandardJava" />
@@ -115,13 +80,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ArrayEx12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx12" />
+      <module name="StandardJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayEx13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx13" />
+      <module name="StandardJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.ArrayEx13" />
+        <item itemvalue="애플리케이션.ArrayEx12" />
         <item itemvalue="애플리케이션.ArrayEx11" />
         <item itemvalue="애플리케이션.ArrayEx10" />
         <item itemvalue="애플리케이션.ArrayEx09" />
-        <item itemvalue="애플리케이션.ArrayEx08" />
-        <item itemvalue="애플리케이션.ArrayEx07" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +134,8 @@
       <workItem from="1669521680466" duration="14837000" />
       <workItem from="1669635866491" duration="1146000" />
       <workItem from="1669722483727" duration="5780000" />
-      <workItem from="1669773051325" duration="14731000" />
+      <workItem from="1669773051325" duration="15504000" />
+      <workItem from="1669859669665" duration="4331000" />
     </task>
     <task id="LOCAL-00001" summary="자바의 정석 2장 1.2까지">
       <created>1668326185955</created>
@@ -236,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669778897361</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="자바의 정석 5장 1(.6)까지">
+      <created>1669808446508</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669808446508</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +266,7 @@
     <MESSAGE value="자바의 정석 4장 2.1까지" />
     <MESSAGE value="자바의 정석 4장 2.3까지" />
     <MESSAGE value="자바의 정석 4장 (2.6)까지" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 4장 (2.6)까지" />
+    <MESSAGE value="자바의 정석 5장 1(.6)까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 5장 1(.6)까지" />
   </component>
 </project>
