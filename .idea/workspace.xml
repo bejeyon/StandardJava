@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 5장 2.2까지" />
+    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 2장 2.4까지" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,9 +21,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HTyWJfzYiLYoPMzfnniFAKsGGO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,17 +30,16 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/StandardJava/src/Chapter04/FlowEx32.java&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.ArrayEx13">
-    <configuration name="ArrayEx09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx09" />
+  <component name="RunManager" selected="애플리케이션.ScannerEx">
+    <configuration name="PrintfEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter02.PrintfEx01" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter05.*" />
+          <option name="PATTERN" value="Chapter02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +47,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx10" />
+    <configuration name="PrintfEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter02.PrintfEx02" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter05.*" />
+          <option name="PATTERN" value="Chapter02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx11" />
+    <configuration name="ScannerEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter02.ScannerEx" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter05.*" />
+          <option name="PATTERN" value="Chapter02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx12" />
+    <configuration name="StringEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter02.StringEx" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter05.*" />
+          <option name="PATTERN" value="Chapter02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx13" />
+    <configuration name="VarEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter02.VarEx02" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter05.*" />
+          <option name="PATTERN" value="Chapter02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.ArrayEx13" />
-        <item itemvalue="애플리케이션.ArrayEx12" />
-        <item itemvalue="애플리케이션.ArrayEx11" />
-        <item itemvalue="애플리케이션.ArrayEx10" />
-        <item itemvalue="애플리케이션.ArrayEx09" />
+        <item itemvalue="애플리케이션.ScannerEx" />
+        <item itemvalue="애플리케이션.PrintfEx02" />
+        <item itemvalue="애플리케이션.PrintfEx01" />
+        <item itemvalue="애플리케이션.StringEx" />
+        <item itemvalue="애플리케이션.VarEx02" />
       </list>
     </recent_temporary>
   </component>
@@ -122,16 +119,7 @@
       <updated>1668323402755</updated>
       <workItem from="1668323404376" duration="264000" />
       <workItem from="1668324011166" duration="2033000" />
-      <workItem from="1668336915415" duration="3170000" />
-      <workItem from="1669453820538" duration="7287000" />
-      <workItem from="1669468319768" duration="2262000" />
-      <workItem from="1669470622766" duration="3514000" />
-      <workItem from="1669516452156" duration="2031000" />
-      <workItem from="1669521680466" duration="14837000" />
-      <workItem from="1669635866491" duration="1146000" />
-      <workItem from="1669722483727" duration="5780000" />
-      <workItem from="1669773051325" duration="15504000" />
-      <workItem from="1669859669665" duration="4362000" />
+      <workItem from="1668336915415" duration="3461000" />
     </task>
     <task id="LOCAL-00001" summary="자바의 정석 2장 1.2까지">
       <created>1668326185955</created>
@@ -140,105 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668326185955</updated>
     </task>
-    <task id="LOCAL-00002" summary="자바의 정석 2장 4.2까지">
-      <created>1669456499181</created>
+    <task id="LOCAL-00002" summary="자바의 정석 2장 2.4까지">
+      <created>1668342360973</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1669456499181</updated>
+      <updated>1668342360973</updated>
     </task>
-    <task id="LOCAL-00003" summary="자바의 정석 2장 5.5까지">
-      <created>1669462704512</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1669462704512</updated>
-    </task>
-    <task id="LOCAL-00004" summary="자바의 정석 3장 3.1 예제 11번까지">
-      <created>1669471532165</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1669471532165</updated>
-    </task>
-    <task id="LOCAL-00005" summary="자바의 정석 3장 3.2까지">
-      <created>1669475031654</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1669475031654</updated>
-    </task>
-    <task id="LOCAL-00006" summary="자바의 정석 3장 4.2까지">
-      <created>1669518457849</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1669518457849</updated>
-    </task>
-    <task id="LOCAL-00007" summary="자바의 정석 3장(6.2)까지">
-      <created>1669546009348</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1669546009348</updated>
-    </task>
-    <task id="LOCAL-00008" summary="자바의 정석 4장 1.4까지">
-      <created>1669554469310</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1669554469310</updated>
-    </task>
-    <task id="LOCAL-00009" summary="자바의 정석 4장 1.5까지">
-      <created>1669559283150</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1669559283150</updated>
-    </task>
-    <task id="LOCAL-00010" summary="자바의 정석 4장 중첩for문 직전까지">
-      <created>1669636985143</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1669636985143</updated>
-    </task>
-    <task id="LOCAL-00011" summary="자바의 정석 4장 2.1까지">
-      <created>1669724396215</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1669724396215</updated>
-    </task>
-    <task id="LOCAL-00012" summary="자바의 정석 4장 2.3까지">
-      <created>1669727282701</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1669727282701</updated>
-    </task>
-    <task id="LOCAL-00013" summary="자바의 정석 4장 (2.6)까지">
-      <created>1669778897361</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1669778897361</updated>
-    </task>
-    <task id="LOCAL-00014" summary="자바의 정석 5장 1(.6)까지">
-      <created>1669808446508</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1669808446508</updated>
-    </task>
-    <task id="LOCAL-00015" summary="자바의 정석 5장 2.2까지">
-      <created>1669885212975</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1669885212975</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,20 +154,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="자바의 정석 2장 1.2까지" />
-    <MESSAGE value="자바의 정석 2장 4.2까지" />
-    <MESSAGE value="자바의 정석 2장 5.5까지" />
-    <MESSAGE value="자바의 정석 3장 3.1 예제 11번까지" />
-    <MESSAGE value="자바의 정석 3장 3.2까지" />
-    <MESSAGE value="자바의 정석 3장 4.2까지" />
-    <MESSAGE value="자바의 정석 3장(6.2)까지" />
-    <MESSAGE value="자바의 정석 4장 1.4까지" />
-    <MESSAGE value="자바의 정석 4장 1.5까지" />
-    <MESSAGE value="자바의 정석 4장 중첩for문 직전까지" />
-    <MESSAGE value="자바의 정석 4장 2.1까지" />
-    <MESSAGE value="자바의 정석 4장 2.3까지" />
-    <MESSAGE value="자바의 정석 4장 (2.6)까지" />
-    <MESSAGE value="자바의 정석 5장 1(.6)까지" />
-    <MESSAGE value="자바의 정석 5장 2.2까지" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 5장 2.2까지" />
+    <MESSAGE value="자바의 정석 2장 2.4까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 2장 2.4까지" />
   </component>
 </project>
