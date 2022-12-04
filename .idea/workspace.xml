@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 5장 2.4까지">
-      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter05/ArrayEx19.java" afterDir="false" />
+    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 5장 3.3까지">
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/MultiArrEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/MultiArrEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/MultiArrEx03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/MultiArrEx04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,48 +41,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.ArrayEx19">
-    <configuration name="ArrayEx16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx16" />
-      <module name="StandardJava" />
-      <option name="PROGRAM_PARAMETERS" value="10 + 3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayEx17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx17" />
-      <module name="StandardJava" />
-      <option name="PROGRAM_PARAMETERS" value="10 + 3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayEx18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx18" />
-      <module name="StandardJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.MultiArrEx04">
     <configuration name="ArrayEx19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter05.ArrayEx19" />
       <module name="StandardJava" />
@@ -94,12 +55,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter02.ScannerEx" />
+    <configuration name="MultiArrEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter05.MultiArrEx01" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter02.*" />
+          <option name="PATTERN" value="Chapter05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiArrEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter05.MultiArrEx02" />
+      <module name="StandardJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiArrEx03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter05.MultiArrEx03" />
+      <module name="StandardJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiArrEx04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter05.MultiArrEx04" />
+      <module name="StandardJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,19 +108,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="애플리케이션.ArrayEx18" />
       <item itemvalue="애플리케이션.ArrayEx19" />
-      <item itemvalue="애플리케이션.ArrayEx17" />
-      <item itemvalue="애플리케이션.ArrayEx16" />
-      <item itemvalue="애플리케이션.ScannerEx" />
+      <item itemvalue="애플리케이션.MultiArrEx01" />
+      <item itemvalue="애플리케이션.MultiArrEx02" />
+      <item itemvalue="애플리케이션.MultiArrEx03" />
+      <item itemvalue="애플리케이션.MultiArrEx04" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.MultiArrEx04" />
+        <item itemvalue="애플리케이션.MultiArrEx03" />
+        <item itemvalue="애플리케이션.MultiArrEx02" />
+        <item itemvalue="애플리케이션.MultiArrEx01" />
         <item itemvalue="애플리케이션.ArrayEx19" />
-        <item itemvalue="애플리케이션.ArrayEx18" />
-        <item itemvalue="애플리케이션.ArrayEx17" />
-        <item itemvalue="애플리케이션.ArrayEx16" />
-        <item itemvalue="애플리케이션.ScannerEx" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +136,7 @@
       <workItem from="1668324011166" duration="2033000" />
       <workItem from="1668336915415" duration="3461000" />
       <workItem from="1670125970674" duration="1656000" />
-      <workItem from="1670144373793" duration="2379000" />
+      <workItem from="1670144373793" duration="6779000" />
     </task>
     <task id="LOCAL-00001" summary="자바의 정석 2장 1.2까지">
       <created>1668326185955</created>
@@ -173,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670127018032</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="자바의 정석 5장 3.3까지">
+      <created>1670151229259</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670151229259</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +202,7 @@
     <MESSAGE value="자바의 정석 2장 2.4까지" />
     <MESSAGE value="자바의 정석 5장 2.3까지" />
     <MESSAGE value="자바의 정석 5장 2.4까지" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 5장 2.4까지" />
+    <MESSAGE value="자바의 정석 5장 3.3까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 5장 3.3까지" />
   </component>
 </project>
