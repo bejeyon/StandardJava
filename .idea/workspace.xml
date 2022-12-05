@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 5장까지">
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/TvTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/TvTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter06/TvTest03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter06/TvTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter06/TvTest02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +39,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.TvTest02">
-    <configuration name="MultiArrEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter05.MultiArrEx02" />
-      <module name="StandardJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.TvTest03">
     <configuration name="MultiArrEx03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter05.MultiArrEx03" />
       <module name="StandardJava" />
@@ -105,20 +92,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TvTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter06.TvTest03" />
+      <module name="StandardJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="애플리케이션.TvTest03" />
       <item itemvalue="애플리케이션.TvTest" />
       <item itemvalue="애플리케이션.TvTest02" />
-      <item itemvalue="애플리케이션.MultiArrEx02" />
       <item itemvalue="애플리케이션.MultiArrEx03" />
       <item itemvalue="애플리케이션.MultiArrEx04" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.TvTest03" />
         <item itemvalue="애플리케이션.TvTest02" />
         <item itemvalue="애플리케이션.TvTest" />
         <item itemvalue="애플리케이션.MultiArrEx04" />
         <item itemvalue="애플리케이션.MultiArrEx03" />
-        <item itemvalue="애플리케이션.MultiArrEx02" />
       </list>
     </recent_temporary>
   </component>
@@ -136,6 +136,7 @@
       <workItem from="1670125970674" duration="1656000" />
       <workItem from="1670144373793" duration="6867000" />
       <workItem from="1670191919599" duration="1131000" />
+      <workItem from="1670214482814" duration="1540000" />
     </task>
     <task id="LOCAL-00001" summary="자바의 정석 2장 1.2까지">
       <created>1668326185955</created>
