@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 6장 4.4까지">
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/VarArgsEx.java" afterDir="false" />
+    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 6장 4.5까지">
+      <change afterPath="$PROJECT_DIR$/src/Chapter06/BlockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter06/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter06/CarTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter06/CarTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter06/ConstructorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter06/DocumentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter06/ProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter06/StaticBlockTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,9 +46,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.VarArgsEx">
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter06.MainTest" />
+  <component name="RunManager" selected="애플리케이션.DocumentTest">
+    <configuration name="BlockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter06.BlockTest" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -53,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyMathTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter06.MyMathTest02" />
+    <configuration name="CarTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter06.CarTest03" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverloadingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter06.OverloadingTest" />
+    <configuration name="DocumentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter06.DocumentTest" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter06.PowerTest" />
+    <configuration name="ProductTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter06.ProductTest" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarArgsEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter06.VarArgsEx" />
+    <configuration name="StaticBlockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter06.StaticBlockTest" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -106,19 +113,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="애플리케이션.VarArgsEx" />
-      <item itemvalue="애플리케이션.MainTest" />
-      <item itemvalue="애플리케이션.MyMathTest02" />
-      <item itemvalue="애플리케이션.OverloadingTest" />
-      <item itemvalue="애플리케이션.PowerTest" />
+      <item itemvalue="애플리케이션.BlockTest" />
+      <item itemvalue="애플리케이션.DocumentTest" />
+      <item itemvalue="애플리케이션.ProductTest" />
+      <item itemvalue="애플리케이션.StaticBlockTest" />
+      <item itemvalue="애플리케이션.CarTest03" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.VarArgsEx" />
-        <item itemvalue="애플리케이션.OverloadingTest" />
-        <item itemvalue="애플리케이션.MyMathTest02" />
-        <item itemvalue="애플리케이션.PowerTest" />
-        <item itemvalue="애플리케이션.MainTest" />
+        <item itemvalue="애플리케이션.DocumentTest" />
+        <item itemvalue="애플리케이션.ProductTest" />
+        <item itemvalue="애플리케이션.StaticBlockTest" />
+        <item itemvalue="애플리케이션.BlockTest" />
+        <item itemvalue="애플리케이션.CarTest03" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +148,9 @@
       <workItem from="1671876030308" duration="4000" />
       <workItem from="1672549107317" duration="17133000" />
       <workItem from="1672612828695" duration="760000" />
+      <workItem from="1672616667854" duration="93000" />
+      <workItem from="1673162005746" duration="3087000" />
+      <workItem from="1673180823129" duration="2094000" />
     </task>
     <task id="LOCAL-00001" summary="자바의 정석 2장 1.2까지">
       <created>1668326185955</created>
@@ -198,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672582584940</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="자바의 정석 6장 4.5까지">
+      <created>1672616739890</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672616739890</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +240,7 @@
     <MESSAGE value="자바의 정석 5장 3.3까지" />
     <MESSAGE value="자바의 정석 5장까지" />
     <MESSAGE value="자바의 정석 6장 4.4까지" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 6장 4.4까지" />
+    <MESSAGE value="자바의 정석 6장 4.5까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 6장 4.5까지" />
   </component>
 </project>
