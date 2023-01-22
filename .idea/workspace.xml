@@ -2,150 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 6장까지">
-      <change afterPath="$PROJECT_DIR$/src/chapter07/CaptionTvTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/DeckTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/DrawShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/PointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/PointTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/SuperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/SuperTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/TVCR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/BindingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/BindingTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/BindingTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/CastingTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/CastingTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/FinalCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/ImportTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/InstanceofTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/PackageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/PolyArgumentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/PolyArgumentTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/PolyArgumentTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/StaticEmportEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/TimeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter01/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter01/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter02/CastingEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/CastingEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter02/CastingEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/CastingEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter02/CastingEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/CastingEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter02/CastingEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/CastingEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter02/CharToCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/CharToCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter02/FloatEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/FloatEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter02/FloatToBinEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/FloatToBinEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter02/OverflowEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/OverflowEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter02/PrintfEx01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/PrintfEx01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter02/PrintfEx02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/PrintfEx02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter02/ScannerEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/ScannerEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter02/SpecialCharEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/SpecialCharEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter02/StringEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/StringEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter02/VarEx01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/VarEx01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter02/VarEx02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/VarEx02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter03/OperatorEx32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/OperatorEx32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/FlowEx34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/FlowEx34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/ArrayEx19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ArrayEx19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/MultiArrEx01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/MultiArrEx01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/MultiArrEx02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/MultiArrEx02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/MultiArrEx03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/MultiArrEx03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter05/MultiArrEx04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/MultiArrEx04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/BlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/BlockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/CallStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/CallStackTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/CallStackTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/CallStackTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/CarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/CarTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/CarTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/CarTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/CarTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/CardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/CardTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/ConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/ConstructorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/DocumentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/DocumentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/FactorialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/FactorialTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/FactorialTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/FactorialTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/MemberCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/MemberCall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/MyMathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/MyMathTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/MyMathTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/MyMathTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/OverloadingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/OverloadingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/PowerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/PowerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/PrimitiveParamEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/PrimitiveParamEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/ProductTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/ReferenceParamEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/ReferenceParamEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/ReferenceParamEx02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/ReferenceParamEx02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/ReferenceParamEx03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/ReferenceParamEx03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/ReferenceReturnEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/ReferenceReturnEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/ReturnTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/ReturnTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/StaticBlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/StaticBlockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/TvTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/TvTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/TvTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/TvTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/TvTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/TvTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/TvTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/TvTest04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter06/VarArgsEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/VarArgsEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter07/DeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter07/DeckTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter07/SuperTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter07/SuperTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter07/TVCR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter07/TVCR.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,9 +56,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.PointTest02">
-    <configuration name="DeckTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.DeckTest" />
+  <component name="RunManager" selected="애플리케이션.PolyArgumentTest03">
+    <configuration name="BindingTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.BindingTest02" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -195,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.PointTest" />
+    <configuration name="BindingTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.BindingTest03" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -208,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.PointTest02" />
+    <configuration name="PolyArgumentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.PolyArgumentTest" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -221,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.SuperTest" />
+    <configuration name="PolyArgumentTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.PolyArgumentTest02" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -234,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.SuperTest02" />
+    <configuration name="PolyArgumentTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.PolyArgumentTest03" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -248,19 +123,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="애플리케이션.DeckTest" />
-      <item itemvalue="애플리케이션.PointTest" />
-      <item itemvalue="애플리케이션.PointTest02" />
-      <item itemvalue="애플리케이션.SuperTest" />
-      <item itemvalue="애플리케이션.SuperTest02" />
+      <item itemvalue="애플리케이션.BindingTest02" />
+      <item itemvalue="애플리케이션.BindingTest03" />
+      <item itemvalue="애플리케이션.PolyArgumentTest" />
+      <item itemvalue="애플리케이션.PolyArgumentTest02" />
+      <item itemvalue="애플리케이션.PolyArgumentTest03" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.PointTest02" />
-        <item itemvalue="애플리케이션.PointTest" />
-        <item itemvalue="애플리케이션.SuperTest02" />
-        <item itemvalue="애플리케이션.SuperTest" />
-        <item itemvalue="애플리케이션.DeckTest" />
+        <item itemvalue="애플리케이션.PolyArgumentTest03" />
+        <item itemvalue="애플리케이션.PolyArgumentTest02" />
+        <item itemvalue="애플리케이션.PolyArgumentTest" />
+        <item itemvalue="애플리케이션.BindingTest03" />
+        <item itemvalue="애플리케이션.BindingTest02" />
       </list>
     </recent_temporary>
   </component>
@@ -289,6 +164,7 @@
       <workItem from="1673184992600" duration="42000" />
       <workItem from="1673762734957" duration="599000" />
       <workItem from="1673764265036" duration="8619000" />
+      <workItem from="1674281413571" duration="11664000" />
     </task>
     <task id="LOCAL-00001" summary="자바의 정석 2장 1.2까지">
       <created>1668326185955</created>

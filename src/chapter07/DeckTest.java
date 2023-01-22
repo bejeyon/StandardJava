@@ -1,5 +1,6 @@
 package chapter07;
 
+/*
 public class DeckTest {
     public static void main(String[] args) {
         Deck d = new Deck();    // 카드 한 벌(Deck)을 만든다.
@@ -72,3 +73,4 @@ class Card {
         return "kind : " + kinds[this.kind] + ", number : " + numbers.charAt(this.number);
     }   // toString의 끝
 }   // Card클래스의 끝
+*/
