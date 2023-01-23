@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 6장까지">
-      <change afterPath="$PROJECT_DIR$/src/chapter07/BindingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/BindingTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/BindingTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/CastingTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/CastingTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/FinalCardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/ImportTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/InstanceofTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/PackageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/PolyArgumentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/PolyArgumentTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/PolyArgumentTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/SingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/StaticEmportEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter07/TimeTest.java" afterDir="false" />
+    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 7장 5절까지">
+      <change afterPath="$PROJECT_DIR$/src/chapter07/DefaultMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/FighterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/InterfaceTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/InterfaceTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/ParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/RepairableTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter07/DeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter07/DeckTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter07/SuperTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter07/SuperTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter07/TVCR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter07/TVCR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter07/BindingTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter07/BindingTest03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +46,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.PolyArgumentTest03">
-    <configuration name="BindingTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.BindingTest02" />
+  <component name="RunManager" selected="애플리케이션.DefaultMethodTest">
+    <configuration name="DefaultMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.DefaultMethodTest" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BindingTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.BindingTest03" />
+    <configuration name="InterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.InterfaceTest" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolyArgumentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.PolyArgumentTest" />
+    <configuration name="InterfaceTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.InterfaceTest02" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolyArgumentTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.PolyArgumentTest02" />
+    <configuration name="InterfaceTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.InterfaceTest03" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolyArgumentTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.PolyArgumentTest03" />
+    <configuration name="RepairableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.RepairableTest" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -123,19 +113,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="애플리케이션.BindingTest02" />
-      <item itemvalue="애플리케이션.BindingTest03" />
-      <item itemvalue="애플리케이션.PolyArgumentTest" />
-      <item itemvalue="애플리케이션.PolyArgumentTest02" />
-      <item itemvalue="애플리케이션.PolyArgumentTest03" />
+      <item itemvalue="애플리케이션.DefaultMethodTest" />
+      <item itemvalue="애플리케이션.InterfaceTest" />
+      <item itemvalue="애플리케이션.InterfaceTest02" />
+      <item itemvalue="애플리케이션.InterfaceTest03" />
+      <item itemvalue="애플리케이션.RepairableTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.PolyArgumentTest03" />
-        <item itemvalue="애플리케이션.PolyArgumentTest02" />
-        <item itemvalue="애플리케이션.PolyArgumentTest" />
-        <item itemvalue="애플리케이션.BindingTest03" />
-        <item itemvalue="애플리케이션.BindingTest02" />
+        <item itemvalue="애플리케이션.DefaultMethodTest" />
+        <item itemvalue="애플리케이션.InterfaceTest03" />
+        <item itemvalue="애플리케이션.InterfaceTest02" />
+        <item itemvalue="애플리케이션.InterfaceTest" />
+        <item itemvalue="애플리케이션.RepairableTest" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +154,8 @@
       <workItem from="1673184992600" duration="42000" />
       <workItem from="1673762734957" duration="599000" />
       <workItem from="1673764265036" duration="8619000" />
-      <workItem from="1674281413571" duration="11664000" />
+      <workItem from="1674281413571" duration="12412000" />
+      <workItem from="1674453696222" duration="5585000" />
     </task>
     <task id="LOCAL-00001" summary="자바의 정석 2장 1.2까지">
       <created>1668326185955</created>
@@ -236,7 +227,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673185021804</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="자바의 정석 7장 5절까지">
+      <created>1674394895252</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674394895252</updated>
+    </task>
+    <task id="LOCAL-00012" summary="자바의 정석 7장 5절까지">
+      <created>1674394926957</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674394926957</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,6 +268,7 @@
     <MESSAGE value="자바의 정석 6장 4.4까지" />
     <MESSAGE value="자바의 정석 6장 4.5까지" />
     <MESSAGE value="자바의 정석 6장까지" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 6장까지" />
+    <MESSAGE value="자바의 정석 7장 5절까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 7장 5절까지" />
   </component>
 </project>
