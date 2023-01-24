@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="Merge remote-tracking branch 'origin/main'">
+    <list default="true" id="f78b635a-abc6-4491-b005-a441e7a2c786" name="변경" comment="자바의 정석 8장 3절까지">
+      <change afterPath="$PROJECT_DIR$/src/chapter07/InnerEx03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/InnerEx04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/InnerEx05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/InnerEx06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/InnerEx07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter07/InnerEx01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter07/InnerEx01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter07/InnerEx02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter07/InnerEx02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.InnerEx01">
-    <configuration name="DefaultMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.DefaultMethodTest" />
-      <module name="StandardJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.InnerEx08">
     <configuration name="InnerEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter07.InnerEx01" />
       <module name="StandardJava" />
@@ -66,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.InterfaceTest" />
+    <configuration name="InnerEx04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.InnerEx04" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.InterfaceTest02" />
+    <configuration name="InnerEx05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.InnerEx05" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +84,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter07.InterfaceTest03" />
+    <configuration name="InnerEx07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.InnerEx07" />
+      <module name="StandardJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InnerEx08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.InnerEx08" />
       <module name="StandardJava" />
       <extension name="coverage">
         <pattern>
@@ -106,19 +111,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="애플리케이션.DefaultMethodTest" />
+      <item itemvalue="애플리케이션.InnerEx04" />
+      <item itemvalue="애플리케이션.InnerEx05" />
+      <item itemvalue="애플리케이션.InnerEx07" />
+      <item itemvalue="애플리케이션.InnerEx08" />
       <item itemvalue="애플리케이션.InnerEx01" />
-      <item itemvalue="애플리케이션.InterfaceTest" />
-      <item itemvalue="애플리케이션.InterfaceTest02" />
-      <item itemvalue="애플리케이션.InterfaceTest03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.InnerEx08" />
+        <item itemvalue="애플리케이션.InnerEx07" />
+        <item itemvalue="애플리케이션.InnerEx05" />
+        <item itemvalue="애플리케이션.InnerEx04" />
         <item itemvalue="애플리케이션.InnerEx01" />
-        <item itemvalue="애플리케이션.DefaultMethodTest" />
-        <item itemvalue="애플리케이션.InterfaceTest03" />
-        <item itemvalue="애플리케이션.InterfaceTest02" />
-        <item itemvalue="애플리케이션.InterfaceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +153,8 @@
       <workItem from="1673762734957" duration="599000" />
       <workItem from="1673764265036" duration="8619000" />
       <workItem from="1674281413571" duration="12412000" />
-      <workItem from="1674453696222" duration="7061000" />
+      <workItem from="1674453696222" duration="8326000" />
+      <workItem from="1674525148413" duration="2900000" />
     </task>
     <task id="LOCAL-00001" summary="자바의 정석 2장 1.2까지">
       <created>1668326185955</created>
@@ -283,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674461996598</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="자바의 정석 8장 3절까지">
+      <created>1674479992101</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1674479992101</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,6 +326,7 @@
     <MESSAGE value="자바의 정석 7장 5절까지" />
     <MESSAGE value="자바의 정석 7장 7절까지" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="자바의 정석 8장 3절까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 8장 3절까지" />
   </component>
 </project>
